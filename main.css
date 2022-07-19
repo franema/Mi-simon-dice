@@ -1,0 +1,36 @@
+.cuadro {
+    height: 400px;
+    width: 400px;
+    opacity: 50%;
+    transition: opacity 500ms
+}
+
+#cuadro-1 {
+    background-color: blueviolet;
+}
+
+#cuadro-2 {
+    background-color: crimson;
+}
+
+#cuadro-3 {
+    background-color: darkorange;
+}
+
+#cuadro-4 {
+    background-color: olivedrab;
+}
+
+
+#oculto {
+    display: none;
+}
+
+.img-fluid {
+    align-items: center;
+    justify-content: center;
+    flex: 1 auto;
+    padding: 4em 0;
+    display: flex;
+    flex-flow: column wrap;
+}
