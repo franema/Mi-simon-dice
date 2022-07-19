@@ -1,0 +1,22 @@
+{
+  "name": "mi-simon-dice",
+  "version": "1.0.0",
+  "description": "el mio",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/franema/Mi-simon-dice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/franema/Mi-simon-dice/issues"
+  },
+  "homepage": "https://github.com/franema/Mi-simon-dice#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
